@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Dong Quang Linh\\OneDrive\\Example_LIOT_KIT\\03RFID\\hex\\sketch\\RDIF_write.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Dong Quang Linh\\OneDrive\\Example_LIOT_KIT\\03RFID\\hex\\sketch\\RDIF_write.ino.cpp",
+    "Include": "MFRC522.h",
+    "Includepath": "C:\\Users\\Dong Quang Linh\\Documents\\Arduino\\libraries\\rfid-master\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Dong Quang Linh\\OneDrive\\Example_LIOT_KIT\\03RFID\\hex\\sketch\\RDIF_write.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Dong Quang Linh\\Documents\\Arduino\\libraries\\rfid-master\\src\\MFRC522.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Dong Quang Linh\\Documents\\Arduino\\libraries\\rfid-master\\src\\MFRC522Extended.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

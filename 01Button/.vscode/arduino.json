@@ -1,0 +1,5 @@
+{
+    "sketch": "Button\\Button.ino",
+    "board": "arduino:avr:uno",
+    "output": "C:\\Users\\Dong Quang Linh\\OneDrive\\Example_LIOT_KIT\\01Button\\hex"
+}

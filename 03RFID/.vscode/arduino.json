@@ -1,0 +1,5 @@
+{
+    "sketch": "RDIF_write.ino",
+    "board": "arduino:avr:uno",
+    "output": "C:\\Users\\Dong Quang Linh\\OneDrive\\Example_LIOT_KIT\\03RFID\\hex"
+}

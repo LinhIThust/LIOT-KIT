@@ -1,0 +1,5 @@
+{
+    "sketch": "Matrix.ino",
+    "board": "arduino:avr:uno",
+    "output": "C:\\Users\\Dong Quang Linh\\OneDrive\\Example_LIOT_KIT\\02Matrix\\hex"
+}
